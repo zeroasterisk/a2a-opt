@@ -6,9 +6,16 @@
   "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc",
-    "test": "vitest"
+    "test": "vitest run"
   },
-  "keywords": ["a2a", "agent", "ai", "planning", "tasks", "objectives"],
+  "keywords": [
+    "a2a",
+    "agent",
+    "ai",
+    "planning",
+    "tasks",
+    "objectives"
+  ],
   "author": "zeroasterisk",
   "license": "Apache-2.0",
   "repository": {
@@ -16,8 +23,8 @@
     "url": "https://github.com/zeroasterisk/a2a-opt.git"
   },
   "devDependencies": {
-    "typescript": "^5.3.0",
-    "vitest": "^1.2.0"
+    "typescript": "^5.9.3",
+    "vitest": "^1.6.1"
   },
   "engines": {
     "node": ">=18"
