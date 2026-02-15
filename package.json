@@ -1,0 +1,29 @@
+{
+  "name": "a2a-opt",
+  "version": "0.1.0",
+  "description": "A2A Objective-Plan-Task Extension - Hierarchical task management for AI agents",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "vitest"
+  },
+  "keywords": ["a2a", "agent", "ai", "planning", "tasks", "objectives"],
+  "author": "zeroasterisk",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zeroasterisk/a2a-opt.git"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.0",
+    "vitest": "^1.2.0"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "files": [
+    "dist",
+    "spec"
+  ]
+}
