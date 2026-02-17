@@ -126,7 +126,7 @@ Declare OPT support:
 
 | Implementation | Status |
 |----------------|--------|
-| [OpenClaw A2A Plugin](https://github.com/zeroasterisk/zaf/tree/main/plugins/a2a) | ✅ Ready |
+| [OpenClaw A2A Plugin](https://github.com/zeroasterisk/openclaw-a2a) | ✅ Ready |
 
 ## Use Cases
 
